@@ -431,7 +431,7 @@ newUI.resizable();
        // console.log("making resizable");
       }
       	var el = document.createElement("div");
-      	el.style = 
+      	
       	
       }
       
@@ -441,6 +441,9 @@ newUI.resizable();
 function makeScale(e,scale){
 	e.style = e.style + "-webkit-transform:scale("+scale+"); transform:scale("+scale+");";
 }
+
+
+
 
 
 var zIndex = 0;
