@@ -314,8 +314,10 @@ overflow-y: hidden !important;
   }
   #theImg{
 	  	
-	  width:100px;
+	  /*
+width:100px;
 	  height:100px;
+*/
 	  z-index: 100000;
 	  /* position:absolute; */
 	  
@@ -372,19 +374,7 @@ li span {
 			
 			}
 			
-			.n {
-    border-top: 2px solid orange;
+.ui-resizable-se {
+    width: 25px;
+    height: 25px;
 }
- 
-.e {
-    border-right: 2px solid orange;
-}
- 
-.s {
-    border-bottom: 2px solid orange;
-}
- 
-.w {
-    border-left: 2px solid orange;
-}
-	

@@ -37,6 +37,7 @@
 /Users/dickweed/documents/app_3/platforms/android/assets/www/spec \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/spec.html \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/examples.css \
+/Users/dickweed/documents/app_3/platforms/android/assets/www/css/images \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/index.css \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/jquery-ui.css \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/jquery-ui.min.css \
@@ -52,7 +53,12 @@
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/simple-slider.css \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/style.css \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/css/style2.css \
+/Users/dickweed/documents/app_3/platforms/android/assets/www/css/ui-icons_222222_256x240.png \
+/Users/dickweed/documents/app_3/platforms/android/assets/www/css/images/ui-bg_glass_100_f6f6f6_1x400.png \
+/Users/dickweed/documents/app_3/platforms/android/assets/www/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png \
+/Users/dickweed/documents/app_3/platforms/android/assets/www/css/images/ui-icons_222222_256x240.png \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/img/connect.png \
+/Users/dickweed/documents/app_3/platforms/android/assets/www/img/css-images-ui-icons_222222_256x240.png \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/img/download.png \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/img/drawers.png \
 /Users/dickweed/documents/app_3/platforms/android/assets/www/img/home.png \

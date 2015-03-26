@@ -65,7 +65,7 @@ $(function() {
     $( "#amount" ).val( "s" + $( "#slider" ).slider( "value" ) );
     var x = slider.value;
     s = x;
-    console.log(s);
+   //  console.log(s);
   });
   
  
@@ -410,7 +410,7 @@ $("#dropHere").droppable({
          newUI.css('left','300px');
          newUI.css('z-index','999999');
          make_draggable(newUI);
-            //$("#dropHere .theImg").addClass("imgSize-"+counts[0]);
+            $(newUI).addClass("imgSize-"+counts[0]);
             console.log("adding new ");
                 
    //Remove the current class (ui-draggable and dragImg)
@@ -426,6 +426,7 @@ $(this).remove();
 // console.log("about to make resizable"); 
 //make_draggable($("item-"+counts[0])); 
 newUI.resizable(resizeOpts);
+$("imgSize-"+counts[0]).resizable(resizeOpts);
 
 	console.log("making resizable");
       
