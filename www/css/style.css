@@ -371,4 +371,20 @@ li span {
 			left: 50%;
 			
 			}
+			
+			.n {
+    border-top: 2px solid orange;
+}
+ 
+.e {
+    border-right: 2px solid orange;
+}
+ 
+.s {
+    border-bottom: 2px solid orange;
+}
+ 
+.w {
+    border-left: 2px solid orange;
+}
 	

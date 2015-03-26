@@ -425,12 +425,14 @@ $(this).remove();
 });
 // console.log("about to make resizable"); 
 //make_draggable($("item-"+counts[0])); 
-newUI.resizable();
-	// console.log("making resizable");
+newUI.resizable(resizeOpts);
+
+	console.log("making resizable");
       
        // console.log("making resizable");
       }
       	var el = document.createElement("div");
+      	
       	
       	
       }
@@ -441,9 +443,6 @@ newUI.resizable();
 function makeScale(e,scale){
 	e.style = e.style + "-webkit-transform:scale("+scale+"); transform:scale("+scale+");";
 }
-
-
-
 
 
 var zIndex = 0;
